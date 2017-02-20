@@ -1,0 +1,33 @@
+.Background {
+	background-image: url(../Images/sayagata-400px.png);
+}
+
+.Main_Title {
+	width: 20%;
+	height: 10%
+	background-color:solid #4aaaa5;
+	font-family: 'Georgia', 'Times, Times New Roman', serif;
+
+}
+
+.Directory {
+	width: 100%;
+	height: 10%;
+	border-bottom:solid 1px;
+	border-bottom-color: #cccccc;
+	background-color: #ffffff;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#MainContent {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#AboutMeHeading {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.MainContentArea {
+	width: 960px;
+	background-color:#ffffff;
+}
